@@ -1,0 +1,17 @@
+[
+  {
+    "para": "The bi and trimetallic oxide catalysts of Mn, Pb and Co (MnaPbbCocOx) were prepared via simple reduction of KMnO4 in the presence of Pb2+, Mn2+ and Co2+ acetate solutions at room temperature . For preparation of Mn3PbCoOx, aqueous solution of KMnO4 (3.16 g) in 100 ml of water was slowly added to a solution containing mixtures of Mn(CH3COO)2 (2.45 g), Pb(CH3COO)2 (3.79 g), Co(CH3COO)2 (2.49 g) and 200 ml water at a constant flow rate of 4 ml min−1. Then the reaction mixture was stirred for 12 hours. Thereafter it was heated at 60°C till disappearance of KMnO4 colour. The obtained slurry was filtered, washed with deionised water and dried overnight at 50 °C. The dried powder was ground in a ball mill for one hour and sewed through 200 mesh filter. Other compositions of catalysts were prepared by suitably changing the weight of the chemicals. The prepared metal oxide catalyst contains many types of oxides (varying metal oxidation state) with varying content. Hence the oxygen content in the catalyst is given as ‘x’. For example MnOx catalyst contains MnO, MnO2 and Mn2O3.",
+    "sents": []
+  },
+  {
+    "sent_id": 0,
+    "sent": "",
+    "mat": ["KMnO4","Mn(CH3COO)2"],
+    "final_entity":[],
+    "mixed_reference": ["mixture"],
+    "single_reference":["test"],
+    "spo":[{"s": "dried", "p": "process-temperature", "o": "25℃","c": "1h"},{}],
+    "relation": [{"entity1": "mixture","entity2": {"s": "dried", "p": "process-temperature", "o": "25℃"},"relation": "entity-spo"}]
+  }
+]
+

@@ -1,0 +1,18 @@
+{"describe": "铜", "re":["copper","Cu"]}
+{"describe": "钙", "re":["calcium ","Ca"]}
+{"describe": "钠", "re":["sodium","Na"]}
+{"describe": "镁", "re":["magnesium ","Mg"]}
+{"describe": "铝", "re":["aluminum","Al"]}
+{"describe": "铁", "re":["iron","Fe"]}
+{"describe": "锡", "re":[" tin ","Sn"]}
+{"describe": "铅", "re":[" lead ","Pb"]}
+{"describe": "银", "re":["silver","Ag"]}
+{"describe": "铂", "re":["platinum","Pt"]}
+{"describe": "汞", "re":["mercury","Hg"]}
+{"describe": "金", "re":["gold","Au"]}
+{"describe": "锰", "re":["manganese","Mn"]}
+{"describe": "铬", "re":[" chromium ","Cr"]}
+{"describe": "镍", "re":["nickel","Ni"]}
+{"describe": "钼", "re":["molybdenum","Mo"]}
+{"describe": "钛", "re":["titanate","Ti"]}
+{"describe": "铌", "re":["peloponium","Nb"]}

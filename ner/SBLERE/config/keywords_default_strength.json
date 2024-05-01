@@ -1,0 +1,4 @@
+{"describe": "强度值","entity_type":"Val","keywords": ["MPa"," MPa"," MPa"," MPa"]}
+{"describe": "拉伸强度","entity_type":"Perf", "keywords": ["ultimate tensile strength","Tensile strength","UTS","TS","tensile strength","Ultimate tensile strength"]}
+{"describe": "屈服强度","entity_type":"Perf", "keywords": ["yield strength","Yield strength","YS"]}
+{"describe": "铜","entity_type":"MAT", "keywords": ["Cu"]}

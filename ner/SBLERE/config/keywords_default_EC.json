@@ -1,0 +1,3 @@
+{"describe": "电导率值","entity_type":"Val","keywords": [" %IACS","%IACS","% IACS"]}
+{"describe": "电导率","entity_type":"Perf","keywords": ["electrical conductivity","conductivity","EC"]}
+{"describe": "铜","entity_type":"MAT", "keywords": ["Cu"]}

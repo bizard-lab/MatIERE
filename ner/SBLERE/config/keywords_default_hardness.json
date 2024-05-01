@@ -1,0 +1,3 @@
+{"describe": "硬度值","entity_type":"Val","keywords": ["Hv","HV","  Hv"]}
+{"describe": "硬度","entity_type":"Perf", "keywords": ["hardness"]}
+{"describe": "铜","entity_type":"MAT", "keywords": ["Cu"]}

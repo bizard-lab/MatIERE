@@ -1,0 +1,3 @@
+{"describe": "热膨胀系数值","entity_type":"Val", "keywords": ["×10−6/K","/K"," /K"]}
+{"describe": "热膨胀系数","entity_type":"Perf", "keywords": ["coefficient of thermal expansion","CTE"]}
+{"describe": "铜","entity_type":"MAT", "keywords": ["Cu"]}

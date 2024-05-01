@@ -1,0 +1,3 @@
+{"describe": "导热系数/导热率值","entity_type":"Val", "keywords": ["W/m·K"," W/m·K","W/(m·K)"," W/(m·K)","W/mK"," W/mK"]}
+{"describe": "导热系数/导热率","entity_type":"Perf", "keywords": ["Thermal conductivity","thermal conductivity","TC","thermal"]}
+{"describe": "铜","entity_type":"MAT", "keywords": ["Cu"]}

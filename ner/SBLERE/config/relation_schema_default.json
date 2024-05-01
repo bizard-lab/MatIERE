@@ -1,0 +1,6 @@
+{"describe": "拉伸强度", "keywords": "MPa", "re":["ultimate tensile strength","Tensile strength","UTS","TS","tensile strength","Ultimate tensile strength"],"value":["MPa"," MPa"," MPa"," MPa"],"Similar_keywords": [1]}
+{"describe": "屈服强度","keywords": "MPa", "re":["yield strength","Yield strength","YS"],"value": ["MPa"," MPa"," MPa"," MPa"],"Similar_keywords": [0]}
+{"describe": "硬度","keywords": "Hv", "re":["hardness"],"value": ["Hv","HV","  Hv"],"Similar_keywords": [-1]}
+{"describe": "导热系数/导热率","keywords": "W/mK", "re":["Thermal conductivity","thermal conductivity","TC","thermal"],"value": ["W/m·K"," W/m·K","W/(m·K)"," W/(m·K)","W/mK"," W/mK"],"Similar_keywords": [-1]}
+{"describe": "电导率","keywords": "%IACS", "re":["electrical conductivity","conductivity","EC"],"value": [" %IACS","%IACS","% IACS"],"Similar_keywords": [-1]}
+{"describe": "热膨胀系数","keywords": "/K", "re":["coefficient of thermal expansion","CTE"],"value": ["×10−6/K","/K"," /K"],"Similar_keywords": [-1]}

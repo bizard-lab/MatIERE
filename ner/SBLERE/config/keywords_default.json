@@ -1,0 +1,12 @@
+{"describe": "强度值","entity_type":"Val","keywords": ["MPa"," MPa"," MPa"," MPa"]}
+{"describe": "硬度值","entity_type":"Val","keywords": ["Hv","HV","  Hv"]}
+{"describe": "导热系数/导热率值","entity_type":"Val", "keywords": ["W/m·K"," W/m·K","W/(m·K)"," W/(m·K)","W/mK"," W/mK"]}
+{"describe": "电导率值","entity_type":"Val","keywords": [" %IACS","%IACS","% IACS"]}
+{"describe": "热膨胀系数值","entity_type":"Val", "keywords": ["×10−6/K","/K"," /K"]}
+{"describe": "拉伸强度","entity_type":"Perf", "keywords": ["ultimate tensile strength","Tensile strength","UTS","TS","tensile strength","Ultimate tensile strength"]}
+{"describe": "屈服强度","entity_type":"Perf", "keywords": ["yield strength","Yield strength","YS"]}
+{"describe": "导热系数/导热率","entity_type":"Perf", "keywords": ["Thermal conductivity","thermal conductivity","TC","thermal"]}
+{"describe": "硬度","entity_type":"Perf", "keywords": ["hardness"]}
+{"describe": "电导率","entity_type":"Perf","keywords": ["electrical conductivity","conductivity","EC"]}
+{"describe": "热膨胀系数","entity_type":"Perf", "keywords": ["coefficient of thermal expansion","CTE"]}
+{"describe": "铜","entity_type":"MAT", "keywords": ["Cu","copper"]}
